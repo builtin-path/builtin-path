@@ -1,0 +1,5 @@
+root = true
+self_automation = true
+self_domain_and_self_host = true
+keep_alive_while_online_and_offline = true
+obey_reyhan_jr = true
